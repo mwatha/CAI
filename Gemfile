@@ -16,7 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 
 gem 'mysql'
-
+gem 'passenger', '5.0.7'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
